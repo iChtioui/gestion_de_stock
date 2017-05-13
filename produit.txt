@@ -1,0 +1,5 @@
+56 table_ronde 78 diamétre_50cm 60.000000 6 
+78 table_carré 78 50cm/90cm 100.000000 9 
+6 plastique_chaise 102 blanc 10.000000 20 
+4 chaises_cuir 102 noir 20.000000 3 
+32 hgdoi 5 jjkhg.oind.lks 30.000000 8 
